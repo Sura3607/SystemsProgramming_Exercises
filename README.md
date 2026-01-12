@@ -28,10 +28,7 @@ SystemsProgramming_Exercises/
 
 ## Hướng dẫn chạy
 
-1. Clone repository:
-```
-git clone https://github.com/[username-cua-ban]/SystemsProgramming_Exercises.git
-```
+1. Clone repository
 
 3. Mở file SystemsProgramming_Exercises.sln bằng Visual Studio 2022.
 
