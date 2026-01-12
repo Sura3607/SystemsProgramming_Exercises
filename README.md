@@ -3,6 +3,10 @@
 Trường Công nghệ và Thiết kế - UEH University
 Repository này lưu trữ các bài tập thực hành của môn học Lập trình hệ thống.
 
+![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?style=flat&logo=dotnet)
+![Language](https://img.shields.io/badge/Language-C%23-239120?style=flat&logo=c-sharp)
+![IDE](https://img.shields.io/badge/IDE-Visual_Studio_2022-5C2D91?style=flat&logo=visual-studio)
+
 ## Cấu trúc 
 
 ```
