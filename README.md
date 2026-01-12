@@ -16,7 +16,7 @@ SystemsProgramming_Exercises/
 │
 ├── Tutorial_01/                       # Buổi 1
 │   ├── Program.cs                     # Bài tập code
-│   ├── Tutorial_01.plf                # Bài tập lý thuyết
+│   ├── Tutorial_01.pdf                # Bài tập lý thuyết
 │   └── Tutorial_01.csproj
 │
 └── ... (Các bài tập còn lại)
