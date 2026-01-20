@@ -73,6 +73,7 @@ namespace Tutorial_02
             {
                 case 1: Q1_main.Run(); break;
                 case 2: Q2_main.Run(); break;
+                //case 2: Q2_main.RunAverage(10); break; // trung binh n lan chay
                 case 3: Q3_main.Run(); break;
                 case 5: Q5_main.Run(); break;
             }
