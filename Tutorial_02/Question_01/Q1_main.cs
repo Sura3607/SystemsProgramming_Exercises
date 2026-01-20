@@ -18,7 +18,7 @@ namespace Tutorial_02.Question_01
 
         public static void Run()
         {
-            Console.WriteLine("=== Question 1: Value Types và Reference Types ===\n");
+            Console.WriteLine("=== Value Types và Reference Types ===\n");
             PointStruct origStruck = new PointStruct { X = 10, Y = 20 };
             PointClass origClass = new PointClass { X = 10, Y = 20 };
             Console.WriteLine("\n-- Original Values --");
@@ -43,7 +43,6 @@ namespace Tutorial_02.Question_01
             Console.WriteLine($"PointClass Copy: X={copyClass.X}, Y={copyClass.Y}");
 
             Console.WriteLine("\nPress any key to continue...");
-            Console.ReadKey();
         }
     }
 }
