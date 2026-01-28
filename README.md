@@ -28,7 +28,7 @@ SystemsProgramming_Exercises/
 | :---: | :--- | :--- | :---: |
 | 01 | [Tutorial 01](./Tutorial_01) | Tổng quan, System Info, .NET Runtime | Hoàn thành |
 | 02 | [Tutorial 02](./Tutorial_02) | Tối ưu bộ nhớ,cơ chế JIT và tương tác hệ thống cấp thấp | Hoàn thành |
-| 03 | Tutorial 03 | (Đang cập nhật...) | Chưa thực hiện |
+| 03 | [Tutorial 03](./Tutorial_03) | Quản lý bộ nhớ và Đa luồng, phân biệt Stack/Heap, tối ưu hóa Garbage Collection và lập trình bất đồng bộ với Async/Await. | Hoàn thành |
 
 ## Hướng dẫn chạy
 
