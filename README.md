@@ -27,7 +27,7 @@ SystemsProgramming_Exercises/
 | STT | Bài tập | Nội dung chính | Trạng thái |
 | :---: | :--- | :--- | :---: |
 | 01 | [Tutorial 01](./Tutorial_01) | Tổng quan, System Info, .NET Runtime | Hoàn thành |
-| 02 | Tutorial 02 | (Đang cập nhật...) | Chưa thực hiện |
+| 02 | [Tutorial 02](./Tutorial_02) | Tối ưu bộ nhớ,cơ chế JIT và tương tác hệ thống cấp thấp | Hoàn thành |
 | 03 | Tutorial 03 | (Đang cập nhật...) | Chưa thực hiện |
 
 ## Hướng dẫn chạy
