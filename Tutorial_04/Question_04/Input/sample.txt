@@ -1,0 +1,5 @@
+This is a test file.
+Used for FileSystemWatcher demo.
+Line 1: Hello
+Line 2: Concurrency
+Line 3: Thread safety
