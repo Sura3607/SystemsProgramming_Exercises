@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Tutorial05_Question01",
+    "Projects": [
+      {
+        "Path": "Tutorial_05\\Question_01\\ProcessA\\ProcessA.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Tutorial_05\\Question_01\\ProcessB\\ProcessB.csproj",
+        "Action": "Start"
+      }
+    ]
+  },
+  {
+    "Name": "Tutorial05_Question02",
+    "Projects": [
+      {
+        "Path": "Tutorial_05\\Question_02\\PipeServer\\PipeServer.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Tutorial_05\\Question_02\\PipeClient\\PipeClient.csproj",
+        "Action": "Start"
+      }
+    ]
+  },
+  {
+    "Name": "Tutorial05Question03",
+    "Projects": [
+      {
+        "Path": "Tutorial_05\\Question_03\\TcpServer\\TcpServer.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Tutorial_05\\Question_03\\TcpClientApp\\TcpClientApp.csproj",
+        "Action": "Start"
+      }
+    ]
+  },
+  {
+    "Name": "Tutorial05Question04",
+    "Projects": [
+      {
+        "Path": "Tutorial_05\\Question_04\\RpcClient\\RpcClient.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Tutorial_05\\Question_04\\RpcServer\\RpcServer.csproj",
+        "Action": "Start"
+      }
+    ]
+  },
+  {
+    "Name": "Tutorial05Question05",
+    "Projects": [
+      {
+        "Path": "Tutorial_05\\Question_05\\JsonRpcServer\\JsonRpcServer.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Tutorial_05\\Question_05\\JsonRpcClient\\JsonRpcClient.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
